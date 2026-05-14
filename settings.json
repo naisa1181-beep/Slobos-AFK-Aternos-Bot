@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ARTISAN.aternos.me",
+    "ip": "ARTISAN.aternos.me:34895",
     "port": 34895,
     "version": "26.1.2",
     "try-creative": false
